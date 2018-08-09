@@ -340,3 +340,27 @@ LogInit: Object subsystem initialized
 [2018.08.09-05.01.19:770][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.08.09-05.01.21:259][891]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
 [2018.08.09-05.01.21:405][891]EditorErrors: Warning: 체크인 대상 애셋이 없습니다!
+[2018.08.09-05.44.27:299][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.28:384][109]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-05.44.28:506][109]EditorErrors: Warning: 체크인 대상 애셋이 없습니다!
+[2018.08.09-05.44.31:013][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-05.44.33:656][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.36:112][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.36:189][885]LogSlate: Took 0.003592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.09-05.44.36:191][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.36:851][885]LogSavePackage: Moving '../../../../../../Users/VERTEX HORIZON -CHOI/Documents/Unreal Projects/MyFirstGit/Saved/Minimal_DefaultE80B9BEE4701835754AA7494F51B9AD9.tmp' to '../../../../../../Users/VERTEX HORIZON -CHOI/Documents/Unreal Projects/MyFirstGit/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.08.09-05.44.36:880][885]LogFileHelpers: Saving map 'Minimal_Default' took 0.682
+[2018.08.09-05.44.37:407][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.38:477][ 75]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-05.44.38:603][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.40:784][ 75]LogSlate: Window '파일 제출' being destroyed
+[2018.08.09-05.44.41:849][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.42:894][327]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-05.44.43:021][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.46:641][327]LogSlate: Window '파일 제출' being destroyed
+[2018.08.09-05.44.46:653][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.46:730][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.44.47:567][327]LogSourceControl: commit successful: [master cb0677c] hhh
+[2018.08.09-05.44.47:621][327]SourceControl: [master cb0677c] hhh
+[2018.08.09-05.44.47:621][327]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.08.09-05.44.47:628][327]SourceControl: [master cb0677c] hhh 커밋했습니다.
