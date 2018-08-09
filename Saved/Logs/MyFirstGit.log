@@ -331,3 +331,12 @@ LogInit: Object subsystem initialized
 [2018.08.09-04.54.39:470][  0]LogSlate: Took 0.229098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2018.08.09-04.54.40:098][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
 [2018.08.09-04.54.40:098][  0]LogSlate: Took 0.102474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.09-04.55.26:420][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-04.55.28:999][641]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-04.55.29:127][641]EditorErrors: Warning: 체크인 대상 애셋이 없습니다!
+[2018.08.09-05.01.13:929][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.01.15:745][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.01.18:923][615]LogSlate: Window '소스 콘트롤 로그인' being destroyed
+[2018.08.09-05.01.19:770][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-05.01.21:259][891]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-05.01.21:405][891]EditorErrors: Warning: 체크인 대상 애셋이 없습니다!
